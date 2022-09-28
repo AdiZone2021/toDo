@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdiZone2021/toDo.git/static/css/main.015a5396.css",
+    "main.js": "/AdiZone2021/toDo.git/static/js/main.c68865f3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AdiZone2021/toDo.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AdiZone2021/toDo.git/index.html",
+    "main.015a5396.css.map": "/AdiZone2021/toDo.git/static/css/main.015a5396.css.map",
+    "main.c68865f3.js.map": "/AdiZone2021/toDo.git/static/js/main.c68865f3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AdiZone2021/toDo.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.015a5396.css",
+    "static/js/main.c68865f3.js"
+  ]
+}
